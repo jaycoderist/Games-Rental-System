@@ -6,16 +6,16 @@ An application where users can rent games, track their rentals, and view availab
 
 ## 📌 Features
 
-- 🔐 User Login and Registration System
-- 🎮 View Available Games
-- 🛒 Rent Games Easily
-- 📋 Track Current and Previous Rentals
-- 👨‍💼 Admin Management Panel
-- ➕ Add and Manage Games
-- 👥 Manage Users and Customer Orders
-- 💾 MySQL Database Integration
+-  User Login and Registration System
+-  View Available Games
+-  Rent Games Easily
+-  Track Current and Previous Rentals
+-  Admin Management Panel
+-  Add and Manage Games
+-  Manage Users and Customer Orders
+-  MySQL Database Integration
 
----
+
 
 ## 🛠️ Built With
 
@@ -24,7 +24,6 @@ An application where users can rent games, track their rentals, and view availab
 - **MySQL Database**
 - **Visual Studio**
 
----
 
 ## 📂 Project Structure
 
@@ -42,7 +41,6 @@ GamesRentalSystem/
 └── GamesRentalSystem.vbproj
 ```
 
----
 
 ## ⚙️ Installation Guide
 
@@ -79,7 +77,7 @@ Press:
 Start / F5
 ```
 
----
+
 
 ## 🧩 Main Modules
 
@@ -98,7 +96,6 @@ Start / F5
 - Monitor customer rentals
 - Update game availability
 
----
 
 ## 💽 Database
 
@@ -111,5 +108,5 @@ The system uses a **MySQL Database** to store:
 
 This helps keep data organized and easy to manage.
 
----
+
 
