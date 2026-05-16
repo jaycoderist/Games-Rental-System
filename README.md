@@ -1,10 +1,10 @@
-# 🎮 Games Rental System
+# Games Rental System
 
 An application where users can rent games, track their rentals, and view available games. All data is stored in a MySQL database for easy management and organization.
 
 
 
-## 📌 Features
+## Features
 
 -  User Login and Registration System
 -  View Available Games
@@ -17,7 +17,7 @@ An application where users can rent games, track their rentals, and view availab
 
 
 
-## 🛠️ Built With
+## Built With
 
 - **Visual Basic .NET (VB.NET)**
 - **Windows Forms**
@@ -25,7 +25,7 @@ An application where users can rent games, track their rentals, and view availab
 - **Visual Studio**
 
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 GamesRentalSystem/
@@ -79,7 +79,7 @@ Start / F5
 
 
 
-## 🧩 Main Modules
+## Main Modules
 
 ### 👤 User Side
 
@@ -89,7 +89,7 @@ Start / F5
 - Rent games
 - Track rental records
 
-### 👨‍💼 Admin Side
+### Admin Side
 
 - Add new games
 - Manage users
@@ -97,7 +97,7 @@ Start / F5
 - Update game availability
 
 
-## 💽 Database
+## Database
 
 The system uses a **MySQL Database** to store:
 
