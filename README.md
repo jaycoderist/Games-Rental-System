@@ -42,7 +42,7 @@ GamesRentalSystem/
 ```
 
 
-## ⚙️ Installation Guide
+## Installation Guide
 
 ### 1. Open the Project
 
@@ -81,7 +81,7 @@ Start / F5
 
 ## Main Modules
 
-### 👤 User Side
+### User Side
 
 - Register an account
 - Login securely
